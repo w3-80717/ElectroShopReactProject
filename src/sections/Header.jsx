@@ -51,7 +51,7 @@ const Header = () => {
         <h1 className='text-sm font-semibold flex justify-center items-center gap-2'><MdEmail className='size-[18px]' />
           <span>electrashop@company.com</span></h1>
       </div>
-      <nav className="w-full ■bg-gray-100 flex justify-between items-center gap0-1 lg:px-16 px-6 py-5 sticky top-0 z-50">
+      <nav className="w-full ■bg-gray-100 flex justify-between items-center gap0-1 lg:px-16 px-6 py-5 top-0 z-50">
         <h1 className='text-themepurple font-bold lg:text-[30px] text-3xl underline italic'>Electra Shop</h1>
         <ul className="lg:flex justify-center items-center gap-10 hidden">
 
